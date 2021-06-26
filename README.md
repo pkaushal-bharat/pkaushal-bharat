@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pkaushal-bharat
+- 👋 Hi, I’m Prakash K.
 - 👀 I’m interested in ProblemSolving
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on web projects.
