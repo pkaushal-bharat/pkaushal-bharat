@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">A learner and open-source enthusiast</h2>
 
 - 👀 I’m interested in **ProblemSolving**
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on **Flutter**
 - 🌱 I’m currently learning **Web Development** using MERN stack
 <!---- 💞️ I’m looking to collaborate on web projects.-->
 - 🤔 I’m looking for help with **MERN stack**
