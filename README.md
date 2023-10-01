@@ -14,15 +14,15 @@ You can click the Preview link to take a look at your changes.
 <!---- 💞️ I’m looking to collaborate on web projects.-->
 - 🤔 I’m looking for help with **MERN stack**
 - 📫 Reach me for help in **C and python**
-- ⚡ Fun fact **curious about Space**
-
+- ⚡ Fun fact **curious to the Universal things**
+<!----
 <h3 align="left">Learn with me:</h3>
 <p align="left">
 <a href="https://www.sololearn.com/profile/24362327" target="_blank"><div align="center" style="background: url(https://www.sololearn.com/Images/sprite.png) no-repeat -142px -20px;"
  alt="Prakash's Sololearn" height="30" width="40" /></a>
 </p>
 
-<!----<h3 align="left">Code with me:</h3>
+<h3 align="left">Code with me:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/khiladi01" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="Prakash's Codeforces" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/khiladi01" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Prakash's Codechef" height="30" width="40" /></a>
