@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <h1 align="center">Hi 👋, I'm Prakash K</h1>
-<h2 align="center">A learner and open-source enthusiast</h2>
+<h2 align="center">A learner and emerging tech enthusiast</h2>
 
 - 👀 I’m interested in **ProblemSolving**
 - 🔭 I’m currently working on **Flutter**
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <!---- 💞️ I’m looking to collaborate on web projects.-->
 - 🤔 I’m looking for help with **MERN stack**
 - 📫 Reach me for help in **C and python**
-- ⚡ Fun fact **curious to the Universal things**
+- ⚡ Fun fact **Our civilization is levelling up along with us**
 <!----
 <h3 align="left">Learn with me:</h3>
 <p align="left">
